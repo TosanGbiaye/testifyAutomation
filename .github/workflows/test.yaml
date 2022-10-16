@@ -10,9 +10,24 @@ jobs:
      - run: node jsCodingTask\challenge1.js
      - run: node jsCodingTask\challenge2.js
      - run: node jsCodingTask\challenge3.js
+     - run: node jsCodingTask\challenge4.js
+     - run: node jsCodingTask\challenge5.js
+     - run: node jsCodingTask\challenge6.js
+     - run: node jsCodingTask\challenge7.js
+     - run: node jsCodingTask\challenge8.js
+     - run: node jsCodingTask\challenge9.js
+     - run: node jsCodingTask\challenge10.js
      - run: node jsTask\task5.js
      - run: node jsTask\task6.js
-     
+     - run: node jsTask\task7.js
+     - run: node jsTask\task8.js
+     - run: node jsTask\task9.js
+     - run: node jsTask\task10.js
+     - run: node jsTask\task11.js
+     - run: node jsTask\task12.js
+     - run: node jsTask\task13.js
+     - run: node jsTask\task14.js
+
      
 
      
