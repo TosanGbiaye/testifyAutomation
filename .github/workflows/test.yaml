@@ -39,6 +39,7 @@ jobs:
      - run: python python_task\task10.py
      - run: python python_task\task11.py
      - run: python python_task\task12.py
+     - run: python python_task\task13.py || true
      - run: python python_task\task14.py
      - run: python python_task\task15.py
      - run: python python_task\task16.py
