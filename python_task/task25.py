@@ -9,7 +9,7 @@ class Utilities:
     def print_name(tissue_paper):
         return tissue_paper
 
-    j@staticmethod
+    @staticmethod
     def print_name2(electricity_company):
         return electricity_company
 
